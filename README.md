@@ -40,11 +40,7 @@ Superstore Sales Analytics Dashboard
 
          Date fields for trend analysis.
 
-  4. Dashboard Pages
-
-         Page 1 – Product Sales Dashboard
-
- 5.Key KPIs 
+4.Key KPIs 
 
        Total Quantity: 38K
 
@@ -56,7 +52,7 @@ Superstore Sales Analytics Dashboard
 
        Average Sales: $221.86
 
-6.Charts / Visuals
+5.Charts / Visuals
 
       Sales by Category (Bar Chart)
 
@@ -74,7 +70,7 @@ Superstore Sales Analytics Dashboard
 
      These visuals help identify patterns across time, category, and customer segments.
 
-7.DAX Measures
+6.DAX Measures
 
       Total Sales = SUM(Orders[Sales])
 
@@ -89,7 +85,7 @@ Superstore Sales Analytics Dashboard
       YoY Sales = CALCULATE([Total Sales], DATEADD('Date'[Date], -1, YEAR))
 
       Profit Margin = DIVIDE([Total Profit], [Total Sales])
-8.Insights
+7.Insights
 
       1. Technology category contributes the highest sales, followed by Furniture and Office Supplies.
 
@@ -115,7 +111,7 @@ Superstore Sales Analytics Dashboard
       8. Large order count (9,994) with stable average sales value indicates strong customer demand.
 
 
-9.Tools Used
+8.Tools Used
 
       Power BI Desktop
 
@@ -127,6 +123,6 @@ Superstore Sales Analytics Dashboard
 
      Data Modeling (Star Schema)
 
-10. Author
+9. Author
 
 Akash | Data Analyst
