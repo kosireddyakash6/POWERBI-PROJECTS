@@ -22,7 +22,7 @@ Superstore Sales Analytics Dashboard
 
          Make data-driven decisions to improve revenue.
 
-3. Dataset Details
+   3.Dataset Details
 
 Source: Superstore Sales Dataset (Excel/CSV)
 
@@ -89,8 +89,7 @@ Page 1 – Sales Overview Dashboard
       YoY Sales = CALCULATE([Total Sales], DATEADD('Date'[Date], -1, YEAR))
 
       Profit Margin = DIVIDE([Total Profit], [Total Sales])
-
-8. Insights
+8.Insights
 
       1. Technology category contributes the highest sales, followed by Furniture and Office Supplies.
 
@@ -116,7 +115,7 @@ Page 1 – Sales Overview Dashboard
       8. Large order count (9,994) with stable average sales value indicates strong customer demand.
 
 
-9. Tools Used
+9.Tools Used
 
       Power BI Desktop
 
@@ -128,6 +127,6 @@ Page 1 – Sales Overview Dashboard
 
      Data Modeling (Star Schema)
 
-10. Author
+10.Author
 
 Akash | Data Analyst
