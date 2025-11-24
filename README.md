@@ -1,10 +1,10 @@
 # POWERBI-PROJECTS
 End-to-end Power BI dashboards with data modeling, DAX measures, and business insights for real-world decision making.
 Superstore Sales Analytics Dashboard – Power BI Project
-1. Project Name
+ Project Name
 Superstore Sales Analytics Dashboard
 
-2. Project Purpose / Objective
+ Project Purpose / Objective
 
         The purpose of this project is to analyze sales performance, customer segments, product categories, profit trends, and regional performance using Power BI dashboard.
 
@@ -22,7 +22,7 @@ Superstore Sales Analytics Dashboard
 
          Make data-driven decisions to improve revenue.
 
-   3.Dataset Details
+   Dataset Details
 
          Source: Superstore Sales Dataset (Excel/CSV)
 
@@ -40,7 +40,7 @@ Superstore Sales Analytics Dashboard
 
          Date fields for trend analysis.
 
-    4.KPIs
+    KPIs
 
        Total Quantity: 38K
 
@@ -52,7 +52,7 @@ Superstore Sales Analytics Dashboard
 
        Average Sales: $221.86
 
-  5. Charts / Visuals
+   Charts / Visuals
 
                 Sales by Category (Bar Chart)
 
@@ -70,7 +70,7 @@ Superstore Sales Analytics Dashboard
 
                 These visuals help identify patterns across time, category, and customer segments.
 
-   6. DAX Measures
+    DAX Measures
 
               Total Sales = SUM(Orders[Sales])
 
@@ -85,7 +85,7 @@ Superstore Sales Analytics Dashboard
          YoY Sales = CALCULATE([Total Sales], DATEADD('Date'[Date], -1, YEAR))
 
          Profit Margin = DIVIDE([Total Profit], [Total Sales])
-  7. Insights
+   Insights
 
                      Technology category contributes the highest sales, followed by Furniture and Office Supplies.
 
@@ -111,7 +111,7 @@ Superstore Sales Analytics Dashboard
                    Large order count (9,994) with stable average sales value indicates strong customer demand.
 
 
-8. Tools Used
+ Tools Used
 
            Power BI Desktop
 
@@ -123,6 +123,6 @@ Superstore Sales Analytics Dashboard
 
      Data Modeling (Star Schema)
 
-9. Author
+ Author
 
 Akash | Data Analyst
