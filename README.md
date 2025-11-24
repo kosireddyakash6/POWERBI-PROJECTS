@@ -24,27 +24,27 @@ Superstore Sales Analytics Dashboard
 
    3.Dataset Details
 
-Source: Superstore Sales Dataset (Excel/CSV)
+         Source: Superstore Sales Dataset (Excel/CSV)
 
-Rows: 9994
+         Rows: 9994
 
-Columns: 20
+         Columns: 20
 
-Tables Used:
+         Tables Used:
 
-Orders table(Main Fact Table)
+         Orders table(Main Fact Table)
 
-Category/Sub-Category fields.
+         Category/Sub-Category fields.
 
-Region,Segment, and Customer fields.
+         Region,Segment, and Customer fields.
 
-Date fields for trend analysis.
+         Date fields for trend analysis.
 
 4. Dashboard Pages
 
-Page 1 – Sales Overview Dashboard
+         Page 1 – Product Sales Dashboard
 
-5. Key KPIs 
+    5. Key KPIs 
 
        Total Quantity: 38K
 
@@ -56,7 +56,7 @@ Page 1 – Sales Overview Dashboard
 
        Average Sales: $221.86
 
-6.Charts / Visuals
+   6.Charts / Visuals
 
       Sales by Category (Bar Chart)
 
@@ -127,6 +127,6 @@ Page 1 – Sales Overview Dashboard
 
      Data Modeling (Star Schema)
 
-10.Author
+10. Author
 
 Akash | Data Analyst
