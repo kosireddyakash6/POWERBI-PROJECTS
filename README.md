@@ -2,11 +2,11 @@
 End-to-end Power BI dashboards with data modeling, DAX measures, and business insights for real-world decision making.
 
 
-Power BI Project
+Power BI Project Name:
 
 Superstore Sales Analytics Dashboard
 
- Project Purpose / Objective
+ Project Purpose / Objective:
 
         The purpose of this project is to analyze sales performance, customer segments, product categories, profit trends, and regional performance using Power BI dashboard.
 
@@ -24,7 +24,7 @@ Superstore Sales Analytics Dashboard
 
          Make data-driven decisions to improve revenue.
 
-   Dataset Details
+   Dataset Details:
 
          Source: Superstore Sales Dataset (Excel/CSV)
 
@@ -42,7 +42,7 @@ Superstore Sales Analytics Dashboard
 
          Date fields for trend analysis.
 
-    KPIs
+    KPIs:
 
        Total Quantity: 38K
 
@@ -54,7 +54,7 @@ Superstore Sales Analytics Dashboard
 
        Average Sales: $221.86
 
-   Charts / Visuals
+   Charts / Visuals:
 
                 Sales by Category (Bar Chart)
 
@@ -72,7 +72,7 @@ Superstore Sales Analytics Dashboard
 
                 These visuals help identify patterns across time, category, and customer segments.
 
-    DAX Measures
+    DAX Measures:
 
               Total Sales = SUM(Orders[Sales])
 
@@ -87,7 +87,7 @@ Superstore Sales Analytics Dashboard
          YoY Sales = CALCULATE([Total Sales], DATEADD('Date'[Date], -1, YEAR))
 
          Profit Margin = DIVIDE([Total Profit], [Total Sales])
-   Insights
+   Insights:
 
                      Technology category contributes the highest sales, followed by Furniture and Office Supplies.
 
@@ -113,7 +113,7 @@ Superstore Sales Analytics Dashboard
                    Large order count (9,994) with stable average sales value indicates strong customer demand.
 
 
- Tools Used
+ Tools Used:
 
            Power BI Desktop
 
@@ -125,6 +125,6 @@ Superstore Sales Analytics Dashboard
 
      Data Modeling (Star Schema)
 
- Author
+ Author:
 
 Akash | Data Analyst
