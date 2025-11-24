@@ -40,7 +40,7 @@ Superstore Sales Analytics Dashboard
 
          Date fields for trend analysis.
 
-4. Key KPIs 
+ 4. Key KPIs 
 
        Total Quantity: 38K
 
