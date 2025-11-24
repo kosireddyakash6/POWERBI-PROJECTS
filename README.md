@@ -44,7 +44,7 @@ Superstore Sales Analytics Dashboard
 
          Page 1 – Product Sales Dashboard
 
-    5. Key KPIs 
+5. Key KPIs 
 
        Total Quantity: 38K
 
@@ -56,7 +56,7 @@ Superstore Sales Analytics Dashboard
 
        Average Sales: $221.86
 
-   6.Charts / Visuals
+6.Charts / Visuals
 
       Sales by Category (Bar Chart)
 
