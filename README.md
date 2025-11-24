@@ -1,7 +1,10 @@
 # POWERBI-PROJECTS
 End-to-end Power BI dashboards with data modeling, DAX measures, and business insights for real-world decision making.
+
+
 Superstore Sales Analytics Dashboard – Power BI Project
  Project Name
+ 
 Superstore Sales Analytics Dashboard
 
  Project Purpose / Objective
