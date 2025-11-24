@@ -1,6 +1,6 @@
 # POWERBI-PROJECTS
 End-to-end Power BI dashboards with data modeling, DAX measures, and business insights for real-world decision making.
-📊 Superstore Sales Analytics Dashboard – Power BI Project
+Superstore Sales Analytics Dashboard – Power BI Project
 1. Project Name
 Superstore Sales Analytics Dashboard
 
@@ -28,7 +28,7 @@ Source: Superstore Sales Dataset (Excel/CSV)
 
 Rows: 9994
 
-Columns: ~20+
+Columns: 20
 
 Tables Used:
 
@@ -43,11 +43,8 @@ Date fields for trend analysis.
 4. Dashboard Pages
 
 Page 1 – Sales Overview Dashboard
-(Your uploaded report contains a single comprehensive page)
 
-5. Key KPIs Displayed
-
-From report:
+5. Key KPIs 
 
 Total Quantity: 38K
 
@@ -133,7 +130,6 @@ Excel (Dataset)
 
 Data Modeling (Star Schema)
 
-
-👤 10. Author
+10. Author
 
 Akash | Data Analyst
