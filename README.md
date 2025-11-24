@@ -44,7 +44,7 @@ Superstore Sales Analytics Dashboard
 
          Page 1 – Product Sales Dashboard
 
-5. Key KPIs 
+5.Key KPIs 
 
        Total Quantity: 38K
 
