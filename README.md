@@ -74,7 +74,7 @@ Page 1 – Sales Overview Dashboard
 
      These visuals help identify patterns across time, category, and customer segments.
 
-7. DAX Measures
+7.DAX Measures
 
       Total Sales = SUM(Orders[Sales])
 
@@ -90,7 +90,7 @@ Page 1 – Sales Overview Dashboard
 
       Profit Margin = DIVIDE([Total Profit], [Total Sales])
 
-8. Insights:
+8. Insights
 
       1. Technology category contributes the highest sales, followed by Furniture and Office Supplies.
 
